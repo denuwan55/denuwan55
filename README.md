@@ -1,4 +1,4 @@
-### 👋 Hi, I’m [Lahiru Denuwan](www.linkedin.com/in/denuwan-weerarathne-365147279) 👋 
+### 👋 Hi, I’m [Lahiru Denuwan](https://www.linkedin.com/in/denuwan-weerarathne-365147279) 👋 
 I am a **Final Year Computer Engineer Undergraduate** with a deep passion for the exciting and dynamic fields of **Natural Language Processing**, **MLOps/LLMOps**, **Applied Machine Learning**, **DevOps Engineering**, **Cloud Engineering**.
 
 - 👀 I’m interested in NLP, LLMOps, MLOps, DevOps, Cloud
